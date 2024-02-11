@@ -1,2 +1,3 @@
 # neural
-a shitty deeplearning library written in python
+A shitty deeplearning library written in python  
+
